@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "gemsq"
   spec.version       = Gemsq::VERSION
   spec.authors       = ["cho"]
-  spec.email         = ["karen@caresharing.ph"]
+  spec.email         = ["cadiz.karen.ann@gmail.com"]
 
   spec.summary       = %q{CLI-based RubyGems API query wrapper.}
   spec.description   = %q{CLI-based RubyGems API query wrapper.}
